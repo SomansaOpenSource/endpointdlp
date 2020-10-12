@@ -25,6 +25,7 @@
 ## 소만사에 대하여
 
 소만사는 1997년에 창업하였으며, 정보유출방지, 보안웹게이트웨이, 데이터베이스 접근통제 솔루션을 보유하고있는 대한민국의 개인정보보호 솔루션 1위 기업입니다.
+
 소만사에 대해 더 알고싶으시면 [소만사 홈페이지](https://www.somansa.com)에 접속해보세요!
 
 ## (English) Welcome to SOMANSA OPEN SOURCE GitHub Pages!
