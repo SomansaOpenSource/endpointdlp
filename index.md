@@ -1,8 +1,8 @@
-![Somansa Logo](docs/somansa_logo.png)
+![Image](https://github.com/SomansaOpenSource/endpointdlp/blob/master/docs/somansa%20_logo.jpg)
 
 ## 소만사 오픈소스 GitHub Pages 에 오신걸 환영합니다.
 
-본 페이지는 개방형OS에서 동작하는 Endpoint DLP(Data Loss Prevention) 에이전트를 개발하는 GitHub Repository를 소개합니다.
+본 페이지는 개방형OS에서 동작하는 Endpoint DLP(Data Loss Prevention) 에이전트를 개발하는 [GitHub Repository](https://github.com/SomansaOpenSource/endpointdlp) 를 소개합니다.
 
 ![Image](https://github.com/SomansaOpenSource/endpointdlp/blob/master/docs/300.png)
 
@@ -16,7 +16,7 @@
 
 오픈소스 프로젝트 기여는 "Watch", "Star", "Fork"로부터 시작합니다.
 
-Conbributing Guide를 읽고 언제든 문의주세요(이상진 수석연구원: sjinlee@somansa.com).
+[Conbributing Guide](https://github.com/SomansaOpenSource/endpointdlp/blob/master/CONTRIBUTUNG.md)를 읽고 언제든 문의주세요(이상진 수석연구원: sjinlee@somansa.com).
 
 관심있는 개발자들의 많은 참여를 기다립니다.
 
@@ -25,4 +25,30 @@ Conbributing Guide를 읽고 언제든 문의주세요(이상진 수석연구원
 ## 소만사에 대하여
 
 소만사는 1997년에 창업하였으며, 정보유출방지, 보안웹게이트웨이, 데이터베이스 접근통제 솔루션을 보유하고있는 대한민국의 개인정보보호 솔루션 1위 기업입니다.
-소만사에 대해 더 알고싶으시면 [홈페이지](https://www.somansa.com)에 접속해보세요!
+소만사에 대해 더 알고싶으시면 [소만사 홈페이지](https://www.somansa.com)에 접속해보세요!
+
+## (English) Welcome to SOMANSA OPEN SOURCE GitHub Pages!
+
+This page introduces the [GitHub Repository](https://github.com/SomansaOpenSource/endpointdlp), which develops Endpoint Data Loss Prevention agent that operate on open OS.
+
+DLP(Data Loss Prevention) is an information protection solution that prevents confidential data in the organization from being leaked to the outside. It detects information to protect your organization's assets.
+
+SOMANSA has an Endpoint DLP solution for Windows and macOS, and is in the process of expanding the platform to open OS as this open source project.
+
+The scope of open source is "kernel control module" and "kernel control interface" in the figure above, and agents are provided for functional testing.
+
+### Joining and Contributing to the project
+
+Contributing to open source projects starts with "Watch", "Star", and "Fork".
+
+Please read the [Conbributing Guide](https://github.com/SomansaOpenSource/endpointdlp/blob/master/CONTRIBUTUNG.md) and contact us anytime (Senior Researcher Sang-Jin Lee: sjinlee@somansa.com).
+
+We look forward to the participation of interested developers.
+
+Somansa Open Source Project is always open to Contributors.
+
+## About Somansa
+
+SOMANSA was founded in 1997, and is the number one personal information protection solution company in Korea that has Data Loss Prevention, Secure Web Gateway, Database Access Control solutions.
+
+If you want to know more about Somansa, please visit [Somansa Homepage](https://www.somansa.com)!
