@@ -12,7 +12,7 @@
 
 오픈소스에 해당하는 범위는 위 그림에서 "커널 통제 모듈"과 "커널 통제 인터페이스"이며 기능 테스트를 위한 에이전트를 제공하고 있습니다.
 
-### 프로젝트 기여하기
+## 프로젝트 기여하기
 
 오픈소스 프로젝트에 참여할 개발자는 지금 "Watch", "Star", "Fork"를 클릭하세요!
 
@@ -28,7 +28,8 @@
 
 소만사에 대해 더 알고싶으시면 [소만사 홈페이지](https://www.somansa.com)에 접속해보세요!
 
-## (English) Welcome to SOMANSA OPEN SOURCE GitHub Pages!
+## For foreign developoers,
+## Welcome to SOMANSA OPEN SOURCE GitHub Pages!
 
 This page introduces the [GitHub Repository](https://github.com/SomansaOpenSource/endpointdlp), which develops Endpoint Data Loss Prevention agent that operate on open OS.
 
@@ -38,7 +39,7 @@ SOMANSA has an Endpoint DLP solution for Windows and macOS, and is in the proces
 
 The scope of open source is "kernel control module" and "kernel control interface" in the figure above, and agents are provided for functional testing.
 
-### Joining and Contributing to the project
+## Joining and Contributing to the project
 
 If you want to contribute to this project, please "Watch", "Star", and "Fork" buttons!
 
