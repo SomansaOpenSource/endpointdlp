@@ -52,4 +52,4 @@ Somansa Open Source Project is always open to Contributors.
 
 SOMANSA was founded in 1997, and is the number one personal information protection solution company in Korea that has Data Loss Prevention, Secure Web Gateway, Database Access Control solutions.
 
-If you want to know more about Somansa, please visit [Somansa Homepage](https://www.somansa.com)!
+If you want to know more about Somansa, please visit [Somansa Homepage](https://www.somansa.com) or watch [Introduction Video](https://youtu.be/rOSnPyCRJ78)!
