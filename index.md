@@ -14,7 +14,7 @@
 
 ### 프로젝트 기여하기
 
-오픈소스 프로젝트 기여는 "Watch", "Star", "Fork"로부터 시작합니다.
+오픈소스 프로젝트에 참여할 개발자는 지금 "Watch", "Star", "Fork"를 클릭하세요!
 
 [Conbributing Guide](https://github.com/SomansaOpenSource/endpointdlp/blob/master/CONTRIBUTUNG.md)를 읽고 언제든 문의주세요(이상진 수석연구원: sjinlee@somansa.com).
 
@@ -40,7 +40,7 @@ The scope of open source is "kernel control module" and "kernel control interfac
 
 ### Joining and Contributing to the project
 
-Contributing to open source projects starts with "Watch", "Star", and "Fork".
+If you want to contribute to this project, please "Watch", "Star", and "Fork" buttons!
 
 Please read the [Conbributing Guide](https://github.com/SomansaOpenSource/endpointdlp/blob/master/CONTRIBUTUNG.md) and contact us anytime (Senior Researcher Sang-Jin Lee: sjinlee@somansa.com).
 
